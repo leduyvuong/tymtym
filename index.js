@@ -31,7 +31,7 @@ function init() {
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("Duy Vương | Minh Phú | Kim Ánh | Trần Hà ", "bold 24px Arial", "#2596be");
+  var text = new createjs.Text("Chúc Hương một ngày 14/2 có mình", "bold 14px Arial", "#2596be");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
