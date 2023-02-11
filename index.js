@@ -31,7 +31,7 @@ function init() {
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("Chúc Hương một ngày Valentine xịn </br> Làm bạn lại nhenn <3", "bold 14px Arial", "#2596be");
+  var text = new createjs.Text("Chúc Hương một ngày Valentine xịnnnn", "bold 14px Arial", "#2596be");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
