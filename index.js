@@ -38,7 +38,7 @@ function init() {
   text.y = h / 2 - text.getMeasuredLineHeight();
   text2.textAlign = "center";
   text2.x = w / 2;
-  text2.y = h / 2 - text.getMeasuredLineHeight();
+  text2.y = h / 2 - 2*text.getMeasuredLineHeight();
   stage.addChild(text);
   stage.addChild(text2);
 
