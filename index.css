@@ -1,4 +1,6 @@
 canvas {
     background: url(ac3017dec22900775938.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
